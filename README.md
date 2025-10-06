@@ -15,10 +15,6 @@
 
 Experience the universe like never before with our interactive space exploration platform.
 
-## Youtube Video Link:
-
-https://youtu.be/xpXcoIoVcMs
-
 ## ✨ Features
 
 ### 🎯 Core Features
